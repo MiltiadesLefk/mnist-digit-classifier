@@ -3,4 +3,4 @@ A dataset of MNIST is provided, containing 60,000 handwritten digits represented
 
 ## Documentation
 
-You can also [view the full documentation as a PDF](./report.pdf).
+You can [view the full documentation as a PDF](./report.pdf).
