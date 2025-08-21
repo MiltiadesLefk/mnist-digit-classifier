@@ -1,7 +1,6 @@
 # MNIST Digit Classifier — Deep Neural Networks  
 
-**Course:** Artificial Intelligence — 4th Semester Assignment  
-**Student:** Miltiadis Lefkopoulos  
+**Author:** Miltiadis Lefkopoulos  
 
 ---
 
